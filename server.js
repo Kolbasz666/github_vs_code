@@ -1,6 +1,7 @@
 console.log('megy');
 
-
-function add(a,b){
-    return a+b
+function mathF() {
+    function add(a, b) {
+        return a + b
+    }
 }
